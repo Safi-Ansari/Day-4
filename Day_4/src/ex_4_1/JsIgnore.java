@@ -3,7 +3,6 @@ import java.io.IOException;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-
 class Student { 
 	   public int id;
 	   @JsonIgnore
